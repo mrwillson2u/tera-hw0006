@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# flash dumps and built images: may contain your own data
+*.bin
+*.img
+.DS_Store
